@@ -32,7 +32,7 @@ A python spider ready to run
 
 ### How to run the spider automatically
 
-#### [reference] (https://medium.com/analytics-vidhya/effortlessly-automate-your-python-scripts-cd295697dff6)
+[reference] (https://medium.com/analytics-vidhya/effortlessly-automate-your-python-scripts-cd295697dff6)
 
 * [py file](https://github.com/fudab/US-COVID-19-Vaccine/blob/main/ios-app/utils_spider.py)
 
