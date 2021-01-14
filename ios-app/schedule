@@ -1,0 +1,3 @@
+#!/bin/sh
+Python /Users/xingruchen/Dropbox/COV/Vaccine/utils_spider.py neonphotography
+
