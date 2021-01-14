@@ -1,0 +1,37 @@
+Error Record
+On 2020-12-15 21:18:23: Hello Spider
+On 2020-12-15 21:18:48: Hello Spider
+On 2020-12-22 11:42:44: Message: element click intercepted: Element <div class="tabToolbarButton tab-widget download" role="button" data-tb-test-id="download-ToolbarButton" id="download-ToolbarButton" tabindex="-1" style="user-select: none; -webkit-tap-highlight-color: transparent;" title="Download">...</div> is not clickable at point (1090, 761). Other element would receive the click: <div class="wcGlassPane" id="loadingGlassPane" style="cursor: wait; opacity: 0; transition: opacity 450ms ease 0s;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+On 2020-12-22 11:42:44: Message: element click intercepted: Element <div class="tabToolbarButton tab-widget download" role="button" data-tb-test-id="download-ToolbarButton" id="download-ToolbarButton" tabindex="-1" style="user-select: none; -webkit-tap-highlight-color: transparent;" title="Download">...</div> is not clickable at point (1090, 761). Other element would receive the click: <div class="wcGlassPane" id="loadingGlassPane" style="cursor: wait; opacity: 0; transition: opacity 450ms ease 0s;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+On 2020-12-22 23:30:10: Message: element click intercepted: Element <div class="tabToolbarButton tab-widget download" role="button" data-tb-test-id="download-ToolbarButton" id="download-ToolbarButton" tabindex="-1" style="user-select: none; -webkit-tap-highlight-color: transparent;" title="Download">...</div> is not clickable at point (1090, 761). Other element would receive the click: <div class="wcGlassPane" id="loadingGlassPane" style="cursor: wait; opacity: 0; transition: opacity 450ms ease 0s;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+On 2020-12-23 23:30:35: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@title='Data Visualization']"}
+  (Session info: chrome=87.0.4280.88)
+
+On 2020-12-24 11:30:10: Message: disconnected: Unable to receive message from renderer
+  (Session info: chrome=87.0.4280.88)
+
+On 2020-12-27 23:30:35: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@title='Data Visualization']"}
+  (Session info: chrome=87.0.4280.88)
+
+On 2020-12-28 23:30:35: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@title='Data Visualization']"}
+  (Session info: chrome=87.0.4280.88)
+
+On 2020-12-31 05:45:05: Message: disconnected: Unable to receive message from renderer
+  (Session info: chrome=87.0.4280.88)
+
+On 2020-12-31 11:39:12: Message: disconnected: not connected to DevTools
+  (Session info: chrome=87.0.4280.88)
+
+On 2020-12-31 23:56:47: Message: session not created
+from disconnected: unable to connect to renderer
+  (Session info: chrome=87.0.4280.88)
+
+On 2021-01-01 11:31:10: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@aria-label="This View, Include"]"}
+  (Session info: chrome=87.0.4280.88)
+
