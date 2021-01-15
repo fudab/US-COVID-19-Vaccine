@@ -35,3 +35,6 @@ from disconnected: unable to connect to renderer
 On 2021-01-01 11:31:10: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@aria-label="This View, Include"]"}
   (Session info: chrome=87.0.4280.88)
 
+On 2021-01-14 23:25:16: Message: element click intercepted: Element <div class="tabToolbarButton tab-widget download" role="button" data-tb-test-id="download-ToolbarButton" id="download-ToolbarButton" tabindex="-1" style="user-select: none; -webkit-tap-highlight-color: transparent;" title="Download">...</div> is not clickable at point (1090, 761). Other element would receive the click: <div class="wcGlassPane" id="loadingGlassPane" style="cursor: wait; opacity: 0; transition: opacity 450ms ease 0s;"></div>
+  (Session info: chrome=87.0.4280.141)
+

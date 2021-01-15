@@ -29,8 +29,8 @@ warnings.filterwarnings("ignore", message="use options instead of chrome_options
 
 # https://medium.com/analytics-vidhya/effortlessly-automate-your-python-scripts-cd295697dff6
 # where to save the pdf file
-_DATA_TABLEAU_PATH_ = "/Users/xingruchen/Dropbox/COV/Vaccine/data/tableau/pdf"
-_LOG_PATH_ = "/Users/xingruchen/Dropbox/COV/Vaccine/data/tableau/"
+_DATA_TABLEAU_PATH_ = "/Users/xingruchen/Dropbox/COV/Vaccine/US-COVID-19-Vaccine/data/tableau/pdf"
+_LOG_PATH_ = "/Users/xingruchen/Dropbox/COV/Vaccine/US-COVID-19-Vaccine/data/tableau/"
 
 
 # In[272]:
